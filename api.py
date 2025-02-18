@@ -1,4 +1,4 @@
-import resquests
+import requests
 import json
 
 print('---- GitHub Users ----')
